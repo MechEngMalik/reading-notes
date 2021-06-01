@@ -5,6 +5,6 @@
 
 |READ NUMBER|LINK|
 |------------|-------------|
-|lab02|[ go to lab01](lab01.md)|
+|lab02|[ go to lab01](lab02.md)|
 |read01|[go to read01](read01.md)|
-
+|read02|[go to read02](read02)|
