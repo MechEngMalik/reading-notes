@@ -70,4 +70,9 @@ For cloned repositories, Git will automatically give the 'parent' name for the s
 
 [my work (read02)on GitHub](https://mechengmalik.github.io/reading-notes/read02)
 
-
+[resource 1](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2_1)
+[resource 2](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2_4)
+[resource 3](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#6)
+[resource 4](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#5_2)
+[resource 5](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7)
+[resource 6](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#9)
