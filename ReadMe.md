@@ -8,3 +8,4 @@
 |lab02|[ go to lab02](lab02.md)|
 |read01|[go to read01](read01.md)|
 |read02|[go to read02](read02.md)|
+|read03|[go to read03](read03.md)|
