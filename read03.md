@@ -37,6 +37,6 @@ _in programming, Semantics refers to the purpous of a piece of code and what eff
 _**In HTML, an example**_
 _ **the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page".**_
 
-=======
->>>>>>> a821eeb4b0eb2d72bfd7baf2b195e81eaf2d56e2
+|<h1>This is a top level heading</h1>|
+|----|-----|
 
