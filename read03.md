@@ -30,7 +30,6 @@ _the process used to get to from wireframe to code, is less related to the indiv
 ![concipt](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
 ![attribute](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png)
 
-<<<<<<< HEAD
 ## ** Semantics**
 _in programming, Semantics refers to the purpous of a piece of code and what effect does running that line of JavaScript have, or "what  role does that HTML element have_
 
