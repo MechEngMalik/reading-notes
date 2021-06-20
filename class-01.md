@@ -1,5 +1,5 @@
 # **Introductory HTML and JavaScript**
-### **HTML
+## **HTML**
 
 **HTML is the universal markup language for the Web. HTML lets you format text, add graphics, create links, input forms, frames and tables, etc., and save it all in a text file that any browser can read and display.**
 
@@ -15,14 +15,15 @@
  (<em>, <b>, </b>)
 
  ![html tags](https://tutorial.techaltum.com/images/element.png)
- MAIN TAGS
+ #### **MAIN TAGS**
 * **<!DOCTYPE html>** : **it acts as links to a set of rules that the HTML page had to follow to be considered good HTML.**
 * **<html></html> :** **the <html> element. This element wraps all the content on the entire page.**
 **<head></head> :** **the <head> element. This element acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers.**
 * **<title></title> : the <title> element. This sets the title of your page, which is the title that appears in the browser tab the page is loaded in.**
 * **<body></body> — the <body> element. This contains all the content that you want to show to web users when they visit your page, and it contains other subtags, header, main, and footer.**
+
 ------------------------------------------------------------------
- # ** JavaScript**
+ ## ** JavaScript**
 **JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. Its syntax is based on the Java and C languages — many structures from those languages apply to JavaScript as well. JavaScript supports object-oriented programming with object prototypes**
 
 ### **How to use Js**
