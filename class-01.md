@@ -1,55 +1,53 @@
-# ** Control Flow**
-_The control flow is the order in which the computer executes statements in a script._
+# **Introductory HTML and JavaScript**
+### **HTML
 
-_Code is run in order from the first line in the file to the last line, unless the computer runs across the (extremely frequent) structures that change the control flow, such as conditionals and loops. _
-## **Control flow and error handling**
-_JavaScript supports a compact set of statements, specifically control flow statements, that you can use to incorporate a great deal of interactivity in your application. This chapter provides an overview of these statements._
-## **Type Of Statements**
-* ### **Block statement**
-* ### **Conditional statements:** _A conditional statement is a set of commands that executes if a specified condition is true. JavaScript supports two conditional statements:_
+**HTML is the universal markup language for the Web. HTML lets you format text, add graphics, create links, input forms, frames and tables, etc., and save it all in a text file that any browser can read and display.**
 
-  **1) if else:** _Use the if statement to execute a statement if a logical condition is true. Use the optional else clause to execute a statement if the condition is false_
+**There are general tips and steps to write a html code, first to tell the browser what version of html we use we type DOCTYPE html at the top of the code, then we write any information about the page within the tags, and all the other content within the tags. Attributes appear in the opening tag and they have a name and a value.**
 
-  ![if img](https://www.kirupa.com/html5/images/if_else_200_v2.png)
+**there are two types of elements:**
+* **Block elements: always appear to start on a new line**
 
- 
-  **2) switch:** _A switch statement allows a program to evaluate an expression and attempt to match the expression's value to a case label. If a match is found, the program executes the associated statement._
+ (<h1>, <p>, <ul>, <li>)
 
-  ![switc img](https://study.com/cimages/multimages/16/5d2b3ef7-c90c-4d56-b0a6-a9a9f48b54d9_realcodeexample1.png)
-##  JavaScript Functions
-**a JavaScript function is a block of code designed to perform a particular task.**
+* **In-line elements:**
 
-**a JavaScript function is executed when "something" invokes it (calls it).**
+ (<em>, <b>, </b>)
 
-**_A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().**
+ ![html tags](https://tutorial.techaltum.com/images/element.png)
+ MAIN TAGS
+* **<!DOCTYPE html>** : **it acts as links to a set of rules that the HTML page had to follow to be considered good HTML.**
+* **<html></html> :** **the <html> element. This element wraps all the content on the entire page.**
+**<head></head> :** **the <head> element. This element acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers.**
+* **<title></title> : the <title> element. This sets the title of your page, which is the title that appears in the browser tab the page is loaded in.**
+* **<body></body> — the <body> element. This contains all the content that you want to show to web users when they visit your page, and it contains other subtags, header, main, and footer.**
+------------------------------------------------------------------
+ # ** JavaScript**
+**JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. Its syntax is based on the Java and C languages — many structures from those languages apply to JavaScript as well. JavaScript supports object-oriented programming with object prototypes**
 
-**Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).**
+### **How to use Js**
+**We can write javascript code in the same html file using <script> tags. or we can create a new file with .js extension to write the javasript code inside it and add the link to the html file using <script src=""> tag.**
 
-**The parentheses may include parameter names separated by commas:
-(parameter1, parameter2, ...)**
+### **The ABC of Programming:**
+**A SCRIPT IS A SERIES OF INSTRUCTIONS: A script is a series of instructions that a computer can follow to achieve a goal.**
 
-**The code to be executed, by the function, is placed inside curly brackets: {}**
-### **Function Invocation**
-**The code inside the function will execute when "something" invokes (calls) the function:**
+##### **WRITING A SCRIPT**
 
-**_1) When an event occurs (when a user clicks a button)_**
+**To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.**
 
-**2) _When it is invoked (called) from JavaScript_ **
+**1: DEFINE THE GOAL:** First, you need to define the task you want to achieve. You can think of this as a puzzle for the computer to solve.
 
-**3) _Automatically (self invoked)_**
-## **Advantage Of Functions**
-**_you can reuse code: Define the code once, and use it many times._**
+**2: DESIGN THE SCRIPT:** To design a script you split the goal out into a series of tasks that are going to be involved in solving this puzzle. This can be represented using a flowchart. You can then write down individual steps that the computer needs to perform in order to complete each individual task (and any information it needs to perform the task), rather like writing a recipe that it can follow.
 
-**_You can use the same code many times with different arguments, to produce different results._**
-## **JavaScript Operators**
-* **The assignment operator (=) assigns a value to a variable.**
-* **The addition operator (+) adds numbers:**
-* **The multiplication operator (*) multiplies numbers.**
+**3: CODE EACH STEP:** Each of the steps needs to be written in a programming language that the compu ter understands. In our case, this is JavaScript.
 
-![img](https://img.brainkart.com/extra3/fUjodAU.jpg)
-## **JavaScript Assignment Operators**
-![assi img](https://cdn.educba.com/academy/wp-content/uploads/2020/05/Assignment-Operator-in-Java-Script-1.png.webp)
-## **JavaScript Comparison Operators**
-![comp](https://apprize.best/javascript/20lessons/20lessons.files/image041.jpg)
-## JavaScript Logical Operators
-![log](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Logical-Operator.png)
+![abc](https://res.cloudinary.com/practicaldev/image/fetch/s--eDHmEAZG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/84jmz6dsrpggzfb6ffyr.png)
+
+
+### **HOW HTML, CSS, and JAVASCRIPT FIT TOGETHER?**
+
+**An HTML** file contains the structure of the page itself. It is kind of like the structure of the building.
+
+**A CSS** file contains the styling of the page. It allows you to change colors, positioning and more. It is kind of like the design of the building itself.
+
+**A JavaScript** file determines the dynamic and interactive elements on the page. It determines what happens when users click, hover or type within certain elements. This is kind of like the functionality of the building.
