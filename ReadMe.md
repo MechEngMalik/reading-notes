@@ -1,11 +1,14 @@
 # Malik Swayyed
+
+## Code 102 Reading Notes
+
 ### iam Malik Swayyed Iam a micanical engineer with 28 years olds, programing was a hooby for me but I hope with course I can do much more , to proceed in a new career path with somthing I intrest with
 
 ## content of table
 
 |READ NUMBER|LINK|
 |------------|-------------|
-|lab02|[ go to lab02](lab02.md)|
+|lab02|[go to lab02](lab02.md)|
 |read01|[go to read01](read01.md)|
 |read02|[go to read02](read02.md)|
 |read03|[go to read03](read03.md)|
@@ -15,10 +18,14 @@
 |read07|[go to read07](read07.md)|
 |read08|[go to read08](read08.md)|
 
-# Code 201 Reading Notes
-### This site is for soccer star addicts, and it is a list of the top 10 soccer players, which is renewed every week according to the players’ status.
+## Code 201 Reading Notes
 
-## content of table
+## This site contains a summary of CSS, JavaScript and HTML, and here is a summary of what I have read about them
+
+ content of table
+
 |READ NUMBER|LINK|
 |------------|-------------|
 |class-01|[go to class-01](class-01)|
+|class-02|[go to class-02](class-02)|
+
