@@ -1,4 +1,5 @@
 # **Introductory HTML and JavaScript**
+
 ## **HTML**
 
 **HTML is the universal markup language for the Web. HTML lets you format text, add graphics, create links, input forms, frames and tables, etc., and save it all in a text file that any browser can read and display.**
@@ -6,6 +7,7 @@
 **There are general tips and steps to write a html code, first to tell the browser what version of html we use we type DOCTYPE html at the top of the code, then we write any information about the page within the tags, and all the other content within the tags. Attributes appear in the opening tag and they have a name and a value.**
 
 **there are two types of elements:**
+
 * **Block elements: always appear to start on a new line**
 
  (<h1>, <p>, <ul>, <li>)
