@@ -77,8 +77,8 @@ content of table
 | OOP|[OOP](401-04)|
 |Linked Lists|[Linked Lists](401-05)|
 | Inheritance and Interfaces|[Inheritance and Interfaces](401-06)|
-|class-07|[go to class-07](401-07)|
-|class-08|[go to class-08](401-08)|
+|OO Design|[go to class-07](401-07)|
+|WRRC and Java|[go to class-08](401-08)|
 |class-09|[go to class-09](401-09)|
 |class-10|[go to class-10](401-10)|
 |class-11|[go to class-11](401-11)|
