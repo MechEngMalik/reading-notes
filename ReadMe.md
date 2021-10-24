@@ -81,7 +81,7 @@ content of table
 |WRRC and Java|[WRRC and Java](401-08)|
 |Stacks and Queues|[Stacks and Queues](401-09)|
 |Spring MVC|[Spring MVC](401-10)|
-|class-11|[go to class-11](401-11)|
+|Spring RequestMapping|[Spring RequestMapping](401-11)|
 |class-12|[go to class-12](401-12)|
 |class-13|[go to class-13](401-13)|
 |class-14a|[go to class-14](401-14)|
