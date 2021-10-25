@@ -82,7 +82,7 @@ content of table
 |Stacks and Queues|[Stacks and Queues](401-09)|
 |Spring MVC|[Spring MVC](401-10)|
 |Spring RequestMapping|[Spring RequestMapping](401-11)|
-|class-12|[go to class-12](401-12)|
+|Spring Integration Testing|[Spring Integration Testing](401-12)|
 |class-13|[go to class-13](401-13)|
 |class-14a|[go to class-14](401-14)|
 |class-15|[go to class-15](401-15)|
