@@ -84,5 +84,5 @@ content of table
 |Spring RequestMapping|[Spring RequestMapping](401-11)|
 |Spring Integration Testing|[Spring Integration Testing](401-12)|
 |Trees|[Trees](401-13)|
-|class-14a|[go to class-14](401-14)|
-|class-15|[go to class-15](401-15)|
+|Spring Boot and OAuth2|[Spring Boot and OAuth2](401-14)|
+|Web App Security|[Web App Security](401-15)|
