@@ -63,3 +63,10 @@ _props data is **read-only**, which means that data coming from the parent shoul
 **3- render the Props Data**
 
 ![prop](https://codedaily.io/tutorial_files/C4qKb6D-3b80c7b616.png?width=1712\&height=1048)
+### Using Props in React
+
+**1- define an attribute and its value(data)**
+**2- pass it to child component(s) by using Props**
+**3- render the Props Data**
+
+![prop](https://codedaily.io/tutorial_files/C4qKb6D-3b80c7b616.png?width=1712\&height=1048)
