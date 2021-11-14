@@ -88,3 +88,4 @@ content of table
 |Web App Security|[Web App Security](401-15)|
 |WebSocket|[WebSocket](401-16)|
 | Android Fundamentals|[Android Fundamentals](401-17)|
+| Intents, Activities, and SharedPreferences|[Intents, Activities, and SharedPreferences](401-27)|
