@@ -89,3 +89,4 @@ content of table
 |WebSocket|[WebSocket](401-16)|
 | Android Fundamentals|[Android Fundamentals](401-17)|
 | Intents, Activities, and SharedPreferences|[Intents, Activities, and SharedPreferences](401-27)|
+| RecyclerView|[RecyclerView](401-28)|
