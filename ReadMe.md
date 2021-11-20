@@ -92,6 +92,4 @@ content of table
 | RecyclerView|[RecyclerView](401-28)|
 | Room|[Room](401-29)|
 | Hashtables|[Hashtables](401-30)|
-
-
-
+| Espresso|[Espresso](401-31)|
