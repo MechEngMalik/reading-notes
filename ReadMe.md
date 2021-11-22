@@ -94,4 +94,6 @@ content of table
 | Hashtables|[Hashtables](401-30)|
 | Espresso|[Espresso](401-31)|
 | Serverless and Amplify |[Serverless and Amplify](401-32)|
+| GraphQL @connection|[GraphQL @connection](401-33)|
+
 
