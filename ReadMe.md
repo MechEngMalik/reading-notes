@@ -93,3 +93,7 @@ content of table
 | Room|[Room](401-29)|
 | Hashtables|[Hashtables](401-30)|
 | Espresso|[Espresso](401-31)|
+| Serverless and Amplify
+|[Serverless and Amplify
+](401-32)|
+
