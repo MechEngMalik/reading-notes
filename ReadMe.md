@@ -96,6 +96,9 @@ content of table
 | Serverless and Amplify |[Serverless and Amplify](401-32)|
 | GraphQL @connection|[GraphQL @connection](401-33)|
 | Monetization model|[Monetization model](401-34)|
+| Graphs|[Graphs](401-35)|
+
+ 
 
 
 
