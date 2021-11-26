@@ -97,6 +97,9 @@ content of table
 | GraphQL @connection|[GraphQL @connection](401-33)|
 | Monetization model|[Monetization model](401-34)|
 | Graphs|[Graphs](401-35)|
+| Cognito|[Cognito](401-36)|
+
+
 
  
 
