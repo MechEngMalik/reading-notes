@@ -98,6 +98,7 @@ content of table
 | Monetization model|[Monetization model](401-34)|
 | Graphs|[Graphs](401-35)|
 | Cognito|[Cognito](401-36)|
+| Amazon S3|[Amazon S3](401-37)|
 
 
 
