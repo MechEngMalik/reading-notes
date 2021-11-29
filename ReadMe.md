@@ -99,10 +99,8 @@ content of table
 | Graphs|[Graphs](401-35)|
 | Cognito|[Cognito](401-36)|
 | Amazon S3|[Amazon S3](401-37)|
+| Notifications|[Notifications](401-38)|
 
-
-
- 
 
 
 
