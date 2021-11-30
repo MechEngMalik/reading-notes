@@ -100,6 +100,9 @@ content of table
 | Cognito|[Cognito](401-36)|
 | Amazon S3|[Amazon S3](401-37)|
 | Notifications|[Notifications](401-38)|
+| Kinesis|[Kinesis](401-39)|
+
+ 
 
 
 
