@@ -101,6 +101,8 @@ content of table
 | Amazon S3|[Amazon S3](401-37)|
 | Notifications|[Notifications](401-38)|
 | Kinesis|[Kinesis](401-39)|
+| location|[Kinesis](401-41)|
+
 
  
 
